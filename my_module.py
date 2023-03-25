@@ -5,4 +5,7 @@ def sub(a, b):
     return a - b
 
 def nul(a, b):
-    return a * b #주석
+    return a * b
+
+def duv(a, b):
+    return a / b #주석
